@@ -16,7 +16,7 @@ npm install dotenv --save-dev
 * Start the application with `npm run start_local`.
 
 
-## Command Strucute
+## Command Structure
 
 ### Calling a command
 
